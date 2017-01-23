@@ -1,22 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-
 1. What is your name?
-Tye Cable
-
 2. Why are you interested in Data Science?
-I am interested in data science because it requires are broad knowledge base and has many applications in business. I can use the skills I learn and apply them in almost any industry working individually or as a team to explore new information. 
-
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-I have no professional experience in programing. I have however taken multiple free courses online in python and variations of C. 
-
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-I do not currently use statistics in my work but I did take advanced statistics courses in college.  
-
 5.  Do you have other experience with R or Python?
-The only experience I have using R was in DS700.
-
 6.  What do you hope to learn in this class?
-I hope to learn a solid base of using Python and R for data science to help me further my education in data science.
-
 7.  Is there anything else you would like to share with us?
-Most of my work experience has been developing reports and interpreting data in operations. I became really interested in statistical analysis in college and have continued to study on my own but have not had the opportunity to apply it in my work. I am looking forward to this course and furthering my education to help me earn the opportunity to pursue what I enjoy in a career. 
